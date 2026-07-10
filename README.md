@@ -279,7 +279,7 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-**Lakshman Ulli**
+**Heenaroshan**
 
 * GitHub: https://github.com/lakshmanulli
 * LinkedIn: Add your LinkedIn profile here
